@@ -26,9 +26,6 @@ def truyxuat(id):
     return render_template('detailProduct.html', product=product, categories=categories) 
 
 
-
-
-
 if __name__ == '__main__':
     app.run()
 
