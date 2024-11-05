@@ -1,24 +1,14 @@
 [
     {
         "id": 1,
-        "name": "John Doe",
-        "age": 30,
-        "city": "New York",
-        "image": "hinhxucxac/1.jpg"
+        "name": "Mobile"
     },
     {
         "id": 2,
-        "name": "Jane Smith",
-        "age": 28,
-        "city": "Los Angeles",
-        "image": "hinhxucxac/2.jpg"
+        "name": "Laptop"
     },
     {
         "id": 3,
-        "name": "Alice Johnson",
-        "age": 35,
-        "city": "Chicago",
-        "image": "hinhxucxac/3.jpg"
+        "name": "Watch"
     }
-
 ]

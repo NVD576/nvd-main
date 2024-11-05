@@ -1,0 +1,13 @@
+{%extends 'layout/base.html'%}
+
+{%block content %}
+<div style="display: flex; align-items: center;">
+    <img class="card-img-top" style="width: 400px; margin-right: 20px;" src="{{ url_for('static', filename=product.image) }}" alt="{{product.name}}">
+    <div>
+        <h1 class="text-primary">{{ product.name }}</h1>
+        <h1 class="text-danger">{{ product.price }}</h1>
+    </div>
+</div>
+
+
+{%endblock%}

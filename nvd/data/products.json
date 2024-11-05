@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":"Iphone 11",
+        "price":10000000,
+        "category_id":1,
+        "image": "hinhxucxac/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Galaxy Z10",
+        "price":10000000,
+        "category_id":1,
+        "image": "hinhxucxac/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"MacBook",
+        "price":10000000,
+        "category_id":2,
+        "image": "hinhxucxac/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Watch untral",
+        "price":10000000,
+        "category_id":3,
+        "image": "hinhxucxac/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Iphone 16 promax",
+        "price":10000000,
+        "category_id":1,
+        "image": "hinhxucxac/5.jpg"
+    }
+
+]
