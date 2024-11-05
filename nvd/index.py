@@ -25,7 +25,6 @@ def truyxuat(id):
     product = dao.LoadProduct_Detail(id)
     return render_template('detailProduct.html', product=product, categories=categories) 
 
-
 if __name__ == '__main__':
     app.run(debug=True)
 
